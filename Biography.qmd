@@ -1,0 +1,20 @@
+---
+title: "Biography"
+format: pdf
+---
+
+My name is Yi Fei Pang, but I usually go by Alex. I am currently a fourth year
+student at the University of Toronto Mississauga majoring in GIS an minoring
+in statistics and computer science. I will be graduating this Summer and 
+hopefully be able to find something that aligns with my field of study. But 
+first, I have to pass this class...
+
+Outside of school and work, I like to exercise a lot. I would go to my local 
+recreation centre to play basketball and use the gyms there for weights. On
+days that I feel lazier, I would stay home and play Smash Bros. or go to my
+friends' house for NBA 2K. On days that I feel lucky, I would play cards online
+or with my friends or bet on an NBA game.
+
+
+Thanks for checking out my Bio!
+
