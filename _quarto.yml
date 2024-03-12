@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "apang00.github.io"
+  title: "Yi Fei's Home Page"
   navbar:
     left:
       - href: index.qmd
