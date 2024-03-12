@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Mycv.qmd
+        text: CV
+      - href: Biography.qmd
+        text: Bio
 
 format:
   html:

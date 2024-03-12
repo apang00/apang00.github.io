@@ -1,0 +1,94 @@
+---
+title: "Resume"
+format: pdf
+---
+Name: Yi Fei Pang
+
+
+Email: yifeipang@gmail.com
+
+
+Phone: (343) 678-9123
+
+
+Linkedin: https://www.linkedin.com/in/alex-pang-5a8b52145/
+
+
+Date: \today
+
+---
+
+# Experiences:
+
+## Data Scientist  
+**ISED Canada, Ottawa**  
+*01/2024 - Present*
+
+- Worked extensively with Power BI and Python for data cleaning.
+- Implemented libraries such as pandas and Torch to organize and model data.
+- **Technologies:** Python, Excel, Power BI, SQL
+
+## Full Stack Developer  
+**Bank of Canada, Ottawa**  
+*01/2023 - 01/2024*
+
+- Developed and deployed a bank notes file generator utilizing Fast API.
+- Engineered Python scripts to systematically refine SQL files by T-SQL standards, improving organization and readability.
+- Collaborated with testers in debugging and optimizing web applications.
+- **Technologies:** HTML, JavaScript, CSS, Python, XML
+
+## DevOps Engineer  
+**Johnson Controls, Toronto**  
+*05/2022 - 08/2023*
+
+- Utilized TestNG package and wrote XML scripts for testing automation software.
+- Containerized security panel builds in Docker for high versatility and efficiency.
+- Leveraged Jenkins automation for building, testing, and deploying applications on AWS.
+- **Technologies:** Python, Java, Docker, Linux, Jenkins
+
+## Teaching Assistant  
+**University of Toronto, Toronto**  
+*09/2021 - 12/2021*
+
+- Coordinated labs for first-year computer science course (CSC108).
+- Taught basics such as loops, run-time, debugging, and object-oriented programming.
+- Touched on concepts such as pattern analysis and data structures.
+- **Skills:** Communication, Organization, Collaboration, Python
+
+# Skills:
+
+## Languages
+Python, Java, Groovy, JavaScript, HTML, R, SQL, XML
+
+## Libraries
+React, Pandas, NumPy, PyTorch, RShiny, Tidyverse, FastAPI
+
+## Technologies
+Docker, Git, SQL, Linux, Jenkins, AWS
+
+# Projects:
+
+## Restaurant RNN
+*private repo*
+
+- Developed data augmentation methods for parsing and filtering raw data to improve RNN performance.
+- Implemented a RNN model using the Tensor and Torch library to predict restaurant ratings based on words used in customer reviews.
+- Analyzed RNN model performance by implementing a script for computing accuracy, precision, and F1 scores.
+
+## Texas Vaccine Tracker
+*private repo*
+
+- Leveraged Google Maps API to transform pharmacy addresses into latitude and longitude coordinates.
+- Aggregated and visualized the data detailing pharmacy locations’ vaccine dosage allotments.
+- Utilized R packages such as Tidyverse, Leaflet, and Shiny.
+
+# Education:
+
+**University of Toronto**  
+*Grad: 08/2024*  
+Honours Bachelors of Science  
+*Focuses:* Computer Science, Statistics, GIS
+
+# Interests & Activities
+- Quantitative Sports Trading, Poker Theory
+- Basketball, Personal Fitness

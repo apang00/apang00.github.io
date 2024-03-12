@@ -1,11 +1,13 @@
 ---
-title: "apang00.github.io"
+title: "STA302"
 ---
 
-This is a Quarto website.
+Welcome To My Website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Thanks for visiting! 
 
-```{r}
-1 + 1
-```
+Feel free to explore my Bio and my CV. 
+
+# - Yi Fei
+
+
