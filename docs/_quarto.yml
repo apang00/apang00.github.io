@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yi Fei's Home Page"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Mycv.qmd
+        text: CV
+      - href: Biography.qmd
+        text: Bio
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
